@@ -63,6 +63,13 @@ namespace CSharpFundamentalsObjectLifetime
             //    Year = year;
             //    Color = color;
             //}
+
+            //example of a static method on an object. Static means it can be used without having
+            //to instantiate an instance of the object. 
+            public static void MyMethod()
+            {
+
+            }
         }
     }
 }
